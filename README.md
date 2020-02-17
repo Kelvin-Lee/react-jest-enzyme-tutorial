@@ -1,6 +1,8 @@
 # react-jest-enzyme-tutorial
 Following this tutorial: https://pusher.com/tutorials/react-jest-enzyme
 
+Trying to understand and investigate how Jest is able to understand JSX files.
+
 <hr>
 
 <details><summary>From create-react-app</summary>
